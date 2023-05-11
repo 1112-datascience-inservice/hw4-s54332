@@ -2,7 +2,7 @@
 
 #### Name: 商瑞珊
 #### Student ID: 111971014
-#### ShinyApps link: [<https://yourname.shinyapps.io/NCCU_DS2023_hw4_111971014/>]
+#### ShinyApps link: [<https://sanshang.shinyapps.io/NCCU_DS2023_hw4_111971014/>]
 
 ## Description
 
